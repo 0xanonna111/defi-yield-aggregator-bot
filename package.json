@@ -1,0 +1,11 @@
+{
+  "name": "defi-yield-aggregator-bot",
+  "version": "1.0.0",
+  "description": "Yield monitoring and rebalancing bot for Aave and Compound",
+  "main": "monitor.js",
+  "dependencies": {
+    "ethers": "^6.11.1",
+    "axios": "^1.6.7",
+    "bignumber.js": "^9.1.2"
+  }
+}
